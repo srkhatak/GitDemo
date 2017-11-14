@@ -7,6 +7,8 @@ public class GitDemo {
 		
 		System.out.println("This is Git HUB");
 		
+		System.out.println("This is first small change");
+		
 
 	}
 
